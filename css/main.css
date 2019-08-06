@@ -1,0 +1,16 @@
+.container {
+	border: 1px solid #333;
+}
+
+.main-diagram {
+	background-color: #333;
+	color: #eee;
+}
+
+.main-diagram * {
+	cursor: move;
+}
+
+.diagram-atomic-element {
+	user-select: none;
+}
